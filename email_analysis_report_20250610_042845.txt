@@ -1,0 +1,40 @@
+Email Domain Analysis Report - 2025-06-10 04:28:47
+
+Top Sender Domains:
+  gmail.com: 1
+  bank-phish.com: 1
+  corp.com: 1
+  secure-mail.com: 1
+  malicious.biz: 1
+
+Domain Entropy: 2.322
+
+Most Common Senders:
+  alice1@gmail.com: 1
+  admin77@bank-phish.com: 1
+  bob_jones@corp.com: 1
+  support@secure-mail.com: 1
+  user99@malicious.biz: 1
+
+Username Pattern Analysis:
+  Usernames with numbers: 3
+  Usernames with underscores: 1
+  Average username length: 7.00
+
+Subjects with Action-Oriented Language: 4 found
+  - Urgent: Action Required
+  - Your account needs to be verified
+  - Security Alert: Review Now
+  - Payment required immediately
+
+Clustering Info:
+  Cluster 0: 2 emails
+    Top 3 Domains: gmail.com, malicious.biz
+  Cluster 1: 1 emails
+    Top 3 Domains: bank-phish.com
+  Cluster 2: 1 emails
+    Top 3 Domains: corp.com
+  Cluster 3: 1 emails
+    Top 3 Domains: secure-mail.com
+
+Cluster Visualization saved to: email_clusters_20250610_042845.png
